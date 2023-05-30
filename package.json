@@ -9,6 +9,7 @@
     "autoprefixer": "^10.4.7",
     "bootstrap-icons": "^1.8.3",
     "nanoid": "^4.0.0",
+    "notistack": "^3.0.1",
     "postcss": "^8.4.14",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
